@@ -3,11 +3,12 @@
     "editor.tabSize": 2,
     "editor.cursorStyle": "underline",
     "window.titleBarStyle": "custom",
-    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
     "editor.fontSize": 15,
     "window.zoomLevel": 0.7,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
-    "workbench.colorTheme": "Tokyo Night"
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "simple-icons",
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }
