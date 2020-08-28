@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Except following ones
+!.config/Code/User
+!.profile
+!.zshrc
+!.gitconfig
+!.gitignore
