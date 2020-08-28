@@ -1,14 +1,19 @@
 {
-    "editor.fontFamily": "'Ubuntu Mono'",
+    "editor.fontFamily": "'Fira Code Medium'",
     "editor.tabSize": 2,
     "editor.cursorStyle": "underline",
     "window.titleBarStyle": "custom",
-    "editor.fontSize": 15,
+    "editor.fontSize": 12.5,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 25,
     "window.zoomLevel": 0.7,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
-    "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "simple-icons",
-    "javascript.updateImportsOnFileMove.enabled": "always"
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Dracula",
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontSize": 12
 }
