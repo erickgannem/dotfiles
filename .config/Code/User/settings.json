@@ -1,19 +1,20 @@
 {
     "editor.fontFamily": "'Fira Code Medium'",
     "editor.tabSize": 2,
-    "editor.cursorStyle": "underline",
+    "editor.cursorStyle": "block",
     "window.titleBarStyle": "custom",
-    "editor.fontSize": 12.5,
+    "editor.fontSize": 12,
     "editor.fontLigatures": true,
-    "editor.lineHeight": 25,
+    "editor.lineHeight": 23,
     "window.zoomLevel": 0.7,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
-    "workbench.iconTheme": "simple-icons",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "workbench.colorTheme": "Dracula",
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
-    "terminal.integrated.fontSize": 12
+    "terminal.integrated.fontSize": 12,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "simple-icons"
 }
