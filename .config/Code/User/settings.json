@@ -11,10 +11,11 @@
         "source.fixAll": true
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Overnight Slumber",
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
     "terminal.integrated.fontSize": 12,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "simple-icons"
+    "workbench.iconTheme": "simple-icons",
+    "typescript.updateImportsOnFileMove.enabled": "always",
 }
