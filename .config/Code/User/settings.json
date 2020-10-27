@@ -1,21 +1,56 @@
 {
-    "editor.fontFamily": "'Fira Code Medium'",
+    "editor.fontFamily": "'Operator Mono'",
     "editor.tabSize": 2,
     "editor.cursorStyle": "block",
     "window.titleBarStyle": "custom",
-    "editor.fontSize": 12,
     "editor.fontLigatures": true,
-    "editor.lineHeight": 23,
-    "window.zoomLevel": 0.7,
+    "editor.lineHeight": 33,
+    "editor.fontWeight": 350,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": [
+              //following will be in italic (=FlottFlott)
+              "comment",
+              "entity.name.type.class", //class names
+              "keyword", //import, export, return…
+              "constant", //String, Number, Boolean…, this, super
+              "storage.modifier", //static keyword
+              "storage.type.class.js", //class keyword
+            ],
+            "settings": {
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": [
+              //following will be excluded from italics (VSCode has some defaults for italics)
+              "invalid",
+              "keyword.operator",
+              "constant.numeric.css",
+              "keyword.other.unit.px.css",
+              "constant.numeric.decimal.js",
+              "constant.numeric.json"
+            ],
+            "settings": {
+              "fontStyle": ""
+            }
+          }
+        ]
+      },
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorTheme": "Overnight Slumber",
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
-    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontSize": 13,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.iconTheme": "simple-icons",
     "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "terminal.integrated.fontWeightBold": 350,
 }

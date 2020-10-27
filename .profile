@@ -6,6 +6,7 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:~/Android/android-studio/bin
+export PATH=$PATH:/opt/lampp
 
 #aliases
 alias dev="cd $HOME/Development"
