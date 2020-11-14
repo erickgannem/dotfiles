@@ -2,6 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 source $HOME/.profile
+source /usr/share/nvm/init-nvm.sh
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/erick/.oh-my-zsh"

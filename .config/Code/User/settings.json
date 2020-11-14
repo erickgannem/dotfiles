@@ -51,6 +51,6 @@
     "explorer.confirmDragAndDrop": false,
     "workbench.sideBar.location": "right",
     "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Ayu Dark Bordered",
     "terminal.integrated.fontWeightBold": 350,
+    "workbench.colorTheme": "Ayu Dark Bordered",
 }
