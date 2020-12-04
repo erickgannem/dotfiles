@@ -53,4 +53,5 @@
     "editor.minimap.enabled": false,
     "terminal.integrated.fontWeightBold": 350,
     "workbench.colorTheme": "Ayu Dark Bordered",
+    "liveServer.settings.donotShowInfoMsg": true,
 }
