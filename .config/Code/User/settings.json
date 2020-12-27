@@ -1,10 +1,12 @@
 {
-    "editor.fontFamily": "'Operator Mono'",
+  "synthwave84.brightness": 0.45,
+    "editor.fontFamily": "'Ubuntu Mono'",
     "editor.tabSize": 2,
+    "editor.fontSize": 15,
     "editor.cursorStyle": "block",
     "window.titleBarStyle": "custom",
     "editor.fontLigatures": true,
-    "editor.lineHeight": 33,
+    "editor.lineHeight": 28,
     "editor.fontWeight": 350,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
@@ -44,14 +46,15 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
-    "terminal.integrated.fontSize": 13,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "simple-icons",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "explorer.confirmDragAndDrop": false,
     "workbench.sideBar.location": "right",
     "editor.minimap.enabled": false,
     "terminal.integrated.fontWeightBold": 350,
-    "workbench.colorTheme": "Ayu Dark Bordered",
     "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 0.3,
+    "workbench.iconTheme": "bearded-icons",
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Horizon",
 }
