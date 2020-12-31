@@ -6,7 +6,7 @@
     "editor.cursorStyle": "block",
     "window.titleBarStyle": "custom",
     "editor.fontLigatures": true,
-    "editor.lineHeight": 28,
+    "editor.lineHeight": 25,
     "editor.fontWeight": 350,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
@@ -49,12 +49,12 @@
     "workbench.startupEditor": "newUntitledFile",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "explorer.confirmDragAndDrop": false,
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "editor.minimap.enabled": false,
     "terminal.integrated.fontWeightBold": 350,
     "liveServer.settings.donotShowInfoMsg": true,
     "window.zoomLevel": 0.3,
     "workbench.iconTheme": "bearded-icons",
     "terminal.integrated.fontSize": 15,
-    "workbench.colorTheme": "Horizon",
+    "workbench.colorTheme": "BeardedTheme Monokai Metallian",
 }
