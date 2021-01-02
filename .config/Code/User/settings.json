@@ -1,5 +1,4 @@
 {
-  "synthwave84.brightness": 0.45,
     "editor.fontFamily": "'Ubuntu Mono'",
     "editor.tabSize": 2,
     "editor.fontSize": 15,
@@ -52,9 +51,8 @@
     "workbench.sideBar.location": "left",
     "editor.minimap.enabled": false,
     "terminal.integrated.fontWeightBold": 350,
-    "liveServer.settings.donotShowInfoMsg": true,
     "window.zoomLevel": 0.3,
     "workbench.iconTheme": "bearded-icons",
     "terminal.integrated.fontSize": 15,
-    "workbench.colorTheme": "BeardedTheme Monokai Metallian",
+    "workbench.colorTheme": "BeardedTheme Blue",
 }
