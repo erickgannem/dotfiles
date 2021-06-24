@@ -10,3 +10,13 @@ export PATH=$PATH:/opt/lampp
 
 #aliases
 alias dev="cd $HOME/Development"
+alias update="yay -Syu"
+
+## git
+alias ga="git add"
+alias gs="git status"
+alias gc="git commit"
+alias gp="git push"
+alias gst="git stash"
+alias gpl="git pull"
+alias al="vim $HOME/.profile"

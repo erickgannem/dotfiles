@@ -1,11 +1,10 @@
 {
-    "editor.fontFamily": "'Ubuntu Mono'",
+    "editor.fontFamily": "JetBrains Mono Medium",
     "editor.tabSize": 2,
-    "editor.fontSize": 15,
     "editor.cursorStyle": "block",
     "window.titleBarStyle": "custom",
     "editor.fontLigatures": true,
-    "editor.lineHeight": 25,
+    "editor.lineHeight": 30,
     "editor.fontWeight": 350,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
@@ -48,11 +47,11 @@
     "workbench.startupEditor": "newUntitledFile",
     "typescript.updateImportsOnFileMove.enabled": "always",
     "explorer.confirmDragAndDrop": false,
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "editor.minimap.enabled": false,
     "terminal.integrated.fontWeightBold": 350,
-    "window.zoomLevel": 0.3,
     "workbench.iconTheme": "bearded-icons",
-    "terminal.integrated.fontSize": 15,
-    "workbench.colorTheme": "BeardedTheme Blue",
+    "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.fontFamily": "JetBrains Mono Medium",
+    "workbench.productIconTheme": "material-product-icons",
 }
